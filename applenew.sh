@@ -1,6 +1,6 @@
 #!/bin/bash
 # Apple Valid Email Checker
-# @author Suhada | github.com/suhada99
+# Valid 2019 apel!
 
 HIJAU='\033[0;32m'
 MERAH='\033[01;31m'
