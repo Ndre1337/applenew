@@ -1,6 +1,6 @@
 #!/bin/bash
 # Email Validator 
-# @author Suhada | github.com/suhada99
+# valid v2 Apel 2019 !
 
 HIJAU='\033[0;32m'
 MERAH='\033[01;31m'
